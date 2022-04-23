@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=annasshah&label=Profile%20views&color=0e75b6&style=flat" alt="annasshah" /> </p> -->
-<img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628381/media/affbd0a5886ea406a8216a4eea77cd15.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
